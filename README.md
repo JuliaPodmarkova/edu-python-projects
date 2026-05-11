@@ -10,12 +10,8 @@
 ## 📁 Структура
 
 ```edu-python-projects/
-├── HomeWork1/
-│   ├── solution.py
-│   └── README.md          # условие задачи и описание решения
-├── HomeWork2/
-│   ├── main.py
-│   └── README.md
+├── ModulsOfTema1/
+│   ├── Moduls             # Задания из лекций и практика
 ├── VISION.md              # цель и ценность проектов
 ├── REQUIREMENTS.md        # технические требования
 ├── USER_STORIES.md        # роли и сценарии
