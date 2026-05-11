@@ -10,14 +10,178 @@
 ## 📁 Структура
 
 ```edu-python-projects/
-├── ModulsOfTema1/
-│   ├── Moduls             # Задания из лекций и практика
-├── VISION.md              # цель и ценность проектов
-├── REQUIREMENTS.md        # технические требования
-├── USER_STORIES.md        # роли и сценарии
-├── ROADMAP.md             # планы улучшений
-├── .gitignore
-└── README.md              # корневой
+├── ModulsOfTema1
+│   ├── CalculatorPro
+│   │   ├── CalculatorPro.py
+│   │   └── ReadMe.md
+│   ├── Module1
+│   │   ├── 1st program.py
+│   │   ├── 2nd program.py
+│   │   ├── 3rd program.py
+│   │   ├── 4th program.py
+│   │   ├── Modul1PracticTask.py
+│   │   ├── module_1_4.py
+│   │   └── ReadMe.md
+│   ├── Module10
+│   │   ├── Lection1.py
+│   │   ├── Lection2.py
+│   │   ├── Lection3.py
+│   │   ├── Lection4
+│   │   │   ├── file1.json
+│   │   │   ├── file2.json
+│   │   │   ├── file3.json
+│   │   │   ├── file4.json
+│   │   │   ├── Lection4_gil.py
+│   │   │   ├── Lection4.py
+│   │   │   └── threads_count.py
+│   │   ├── Lection5
+│   │   │   ├── Lection5_part1.py
+│   │   │   └── Lection5_part2.py
+│   │   ├── Lection6.py
+│   │   ├── Lection7.py
+│   │   ├── Module10_HW1.py
+│   │   ├── Module10_HW2.py
+│   │   └── ReadMe.md
+│   ├── Module11
+│   │   ├── Lection4.py
+│   │   ├── Lection5.py
+│   │   ├── Lection6.py
+│   │   └── ReadMe.md
+│   ├── Module2
+│   │   ├── Cortedj.py
+│   │   ├── def.py
+│   │   ├── lists.py
+│   │   ├── module_2_3.py
+│   │   ├── module_2_hard.py
+│   │   ├── ReadMe.md
+│   │   ├── Str.py
+│   │   └── TicTacToe.py
+│   ├── Module3
+│   │   ├── Calculator.py
+│   │   ├── Lectures.py
+│   │   ├── module_3_4.py
+│   │   ├── module3_hurd.py
+│   │   ├── output
+│   │   │   └── Calculator.exe
+│   │   └── ReadMe.md
+│   ├── Module4
+│   │   ├── ins.py
+│   │   ├── Lections4Mod.py
+│   │   ├── LectionsNamespaceAndScopes.py
+│   │   ├── Module_4
+│   │   │   ├── alg.py
+│   │   │   └── __init__.py
+│   │   ├── module_4_1
+│   │   │   ├── fake_math.py
+│   │   │   ├── __init__.py
+│   │   │   ├── module_4_1.py
+│   │   │   └── true_math.py
+│   │   ├── module_4_2.py
+│   │   ├── ReadMe.md
+│   │   └── secondModuleToLections.py
+│   ├── Module5
+│   │   ├── Classes.py
+│   │   ├── color.py
+│   │   ├── method_new.py
+│   │   ├── module_5_3.py
+│   │   ├── module5hard.py
+│   │   ├── practic_In_Module.py
+│   │   └── ReadMe.md
+│   ├── Module6
+│   │   ├── Game
+│   │   │   ├── ball.png
+│   │   │   ├── bar.png
+│   │   │   └── game.py
+│   │   ├── inheritance.py
+│   │   ├── module_6_3.py
+│   │   ├── module6hard.py
+│   │   ├── multiple_inheritance.py
+│   │   └── ReadMe.md
+│   ├── Module7
+│   │   ├── explorer.py
+│   │   ├── HomeWork7.py
+│   │   ├── Module7HW.py
+│   │   ├── Module7_mode_with
+│   │   │   ├── All
+│   │   │   │   ├── Mother Goose - Monday’s Child.txt
+│   │   │   │   ├── Rudyard Kipling - If.txt
+│   │   │   │   ├── Walt Whitman - O Captain! My Captain!.txt
+│   │   │   │   └── Результат (несколько файлов).txt
+│   │   │   ├── Mother_Goose_Mondays_Child
+│   │   │   │   └── Результат.txt
+│   │   │   ├── RudyardKipling_If
+│   │   │   │   └── Результат.txt
+│   │   │   └── Walt_Whitman_O_Captain_My_Captain
+│   │   │       └── Результат.txt
+│   │   ├── Mother_Goose_Mondays_Child.txt
+│   │   ├── os_module.py
+│   │   ├── positioningInTheFile.py
+│   │   ├── readFilesMode.py
+│   │   ├── ReadMe.md
+│   │   ├── RudyardKipling_If.txt
+│   │   ├── sample2.txt
+│   │   ├── sample3.txt
+│   │   ├── sample.txt
+│   │   ├── strAndByts.py
+│   │   ├── StrFormat.py
+│   │   ├── test_file.txt
+│   │   ├── theWithOperator.py
+│   │   └── Walt_Whitman _O_Captain!_My_Captain!.txt
+│   ├── Module8
+│   │   ├── data.txt
+│   │   ├── HomeWorkM8.2.py
+│   │   ├── HomeWorkM8.py
+│   │   ├── practic.py
+│   │   ├── ReadMe.md
+│   │   ├── test1.py
+│   │   └── test.py
+│   ├── Module9
+│   │   ├── large_file.txt
+│   │   ├── Lection1.py
+│   │   ├── Lection2.py
+│   │   ├── Lection3.py
+│   │   ├── Lection4.py
+│   │   ├── Lection5.py
+│   │   ├── Lection6.py
+│   │   ├── Lection7_decorators.py
+│   │   ├── Lection8_decorators.py
+│   │   ├── Module9_HW_1.py
+│   │   ├── Module9_HW_2.py
+│   │   ├── Practic.py
+│   │   └── ReadMe.md
+│   ├── Multiprocessing
+│   │   ├── Files
+│   │   │   ├── file 1.txt
+│   │   │   ├── file 2.txt
+│   │   │   ├── file 3.txt
+│   │   │   ├── file 4.txt
+│   │   │   └── HomeWork.py
+│   │   ├── images
+│   │   │   ├── 10.jpg
+│   │   │   ├── 11.jpg
+│   │   │   ├── 1.jpg
+│   │   │   ├── 2.jpg
+│   │   │   ├── 3.jpg
+│   │   │   ├── 4.jpg
+│   │   │   ├── 5.jpg
+│   │   │   ├── 6.jpg
+│   │   │   ├── 7.jpg
+│   │   │   ├── 8.jpg
+│   │   │   └── 9.jpg
+│   │   ├── Lection1.py
+│   │   ├── practic1.py
+│   │   ├── practic2-1.py
+│   │   ├── practic2-2(counter).py
+│   │   ├── practic2-2.py
+│   │   ├── practic(pipe).py
+│   │   ├── practic.py
+│   │   └── ReadMe.md
+│   └── requirements.txt
+├── README.md
+├── REQUIREMENTS.md
+├── ROADMAP.md
+├── USER_STORIES.md
+└── VISION.md
 ```
 
 ## 🚀 Как посмотреть и запустить
