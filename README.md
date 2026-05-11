@@ -191,7 +191,7 @@
    git clone https://github.com/JuliaPodmarkova/edu-python-projects.git
    cd edu-python-projects ```
    
-2. ### Перейти в папку конкретного проекта, например HomeWork1.
+2. ### Перейти в папку конкретного проекта, например ModulsOfTema1/Module1
 
 3. ### Запустить скрипт:
    ```bash
